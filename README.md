@@ -31,11 +31,12 @@ DevOps e Infraestrutura em Nuvem: Noções de implantação e agendamento de tar
 
 Resolução de Problemas: Adaptação do projeto para uma nova fonte de dados após o bloqueio inicial.
 
-Como Executar
-Clone este repositório.
+Como Executar:
 
-Instale as dependências com pip install -r requirements.txt.
+1 - Clone este repositório.
 
-Configure as credenciais do Firebase.
+2 - Instale as dependências com pip install -r requirements.txt.
 
-Execute o script Python.
+3 - Configure as credenciais do Firebase.
+
+4 - Execute o script Python.
